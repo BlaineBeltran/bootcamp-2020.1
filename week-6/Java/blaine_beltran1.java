@@ -2,7 +2,7 @@
 /**
  * PROMPT: 
  * 1. Find Maximum Difference Between a Node and its Descendants in a Binary Tree. 
- * NOTE: Should consider the absolute value when comparing nodes
+ * NOTE: Use AtomicInteger class to update int value automatically 
  */
 import java.util.concurrent.atomic.AtomicInteger;
 
