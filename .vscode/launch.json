@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - blaine_beltran_ktimes",
+            "request": "launch",
+            "mainClass": "blaine_beltran_ktimes",
+            "projectName": "bootcamp-2020.1_d05478b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - blaine_beltran8",
+            "request": "launch",
+            "mainClass": "blaine_beltran8",
+            "projectName": "bootcamp-2020.1_d05478b6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LinkedList",
             "request": "launch",
             "mainClass": "LinkedList",
