@@ -48,8 +48,8 @@ public class blaine_beltran_ktimes {
     }
 
     public static void main(String[] args) {
-        int elements[] = { 1, 2, 2, 5, 5, 2, 5 };
-        int K = 3;
+        int elements[] = { 2, 2, 1, 3, 1 };
+        int K = 2;
         smallElement(elements, K);
     }
 }
